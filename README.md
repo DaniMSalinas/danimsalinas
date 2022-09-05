@@ -30,14 +30,16 @@ Here are some ideas to get you started:
             <li>⚡ <b>I'm also focusing</b>: technology products lifecycle 👆</li>
         </ul>
     </div>
-    <div align=center>
-        <h1>Contribution Activity</h1>
-        <img src="https://github-readme-stats.vercel.app/api?username=danimsalinas&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=react" alt="GitHub Stats" height="200" />
+    <div align=left>
+        <h1></h1>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danimsalinas&layout=compact&title_color=3d85c6&text_color=FFFFFF&theme=react" alt="GitHub Most Used Languages" height="200" />
         <br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danimsalinas&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=react&count_private=false" alt="GitHub Most Used Languages" height="200" />
+        <img src="https://github-readme-stats.vercel.app/api?username=danimsalinas&title_color=3d85c6&text_color=FFFFFF&show_icons=true&icon_color=3d85c6&include_all_commits=true&count_private=true&theme=react" alt="GitHub Stats" height="200" />
+       <br>
+<!--
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=danimsalinas&theme=react&date_format=j%20M%5B%20Y%5D&currStreakLabel=3d85c6&fire=6FDA44&ring=3d85c6" alt="GitHub Streak Stats" height="200" />
         <br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=danimsalinas&theme=react&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" />
-        <br>
+-->
         <br>
     </div>
 </div>

@@ -14,3 +14,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div>
+    <div align=left>
+        <br>
+        <p>
+            <strong>
+                Telecom enginner currently working for Vodafone UK as IoT Solutions Architect. Also I'm studying at 42 madrid. Take a view of my Linkedin page : <a href="https://www.linkedin.com/in/danimsalinas/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a><br><br>
+                I am technology Enthusiast, passionate about learning Cibersecurity and DevOps and expand my knowledge at Edge/Cloud Computing, 5g and MEC.<br><br>
+            </strong>
+        </p>
+        <ul>
+            <li>🌱 <b>I’m currently learning</b>: how to surf 🏄</li>
+            <li>🎯 <b>I’m currently focusing on</b>: Learning how to surf 🏄 </li>
+            <li>⚡ <b>I'm also focusing</b>: technology products lifecycle 👆</li>
+        </ul>
+    </div>
+    <div align=center>
+        <h1>Contribution Activity</h1>
+        <img src="https://github-readme-stats.vercel.app/api?username=danimsalinas&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=react" alt="GitHub Stats" height="200" />
+        <br>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danimsalinas&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=react&count_private=false" alt="GitHub Most Used Languages" height="200" />
+        <br>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=danimsalinas&theme=react&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" />
+        <br>
+        <br>
+    </div>
+</div>
+
+------

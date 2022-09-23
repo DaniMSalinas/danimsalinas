@@ -20,7 +20,7 @@ Here are some ideas to get you started:
         <br>
         <p>
             <strong>
-                Telecom enginner currently working for Vodafone UK as IoT Solutions Architect. Also I'm studying at 42 madrid. Take a view of my Linkedin page : <a href="https://www.linkedin.com/in/danimsalinas/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a><br><br>
+                Telecom enginner currently working as IoT Solutions Architect. Also I'm studying at 42 madrid. Take a view of my Linkedin page : <a href="https://www.linkedin.com/in/danimsalinas/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a><br><br>
                 I am technology Enthusiast, passionate about learning Cibersecurity and DevOps and expand my knowledge at Edge/Cloud Computing, 5g and MEC.<br><br>
             </strong>
         </p>
